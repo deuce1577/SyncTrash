@@ -1,9 +1,9 @@
 {
 	"id": "obsidian-trash-explorer",
 	"name": "SyncTrash",
-	"version": "1.3.0-mod",
+	"version": "1.3.0",
 	"minAppVersion": "0.15.0",
-	"description": "Менеджер корзины для GitHub",
+	"description": "Проводник корзины с видимой папкой Корзина",
 	"author": "Deuce",
 	"fundingUrl": "https://github.com/deuce1577/TechTalk",
 	"isDesktopOnly": false
